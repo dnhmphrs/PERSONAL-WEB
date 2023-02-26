@@ -65,10 +65,10 @@ impl eframe::App for TemplateApp {
         });
 
         egui::SidePanel::left("side_panel").show(ctx, |ui| {
-            ui.heading("Side Panel");
+            ui.heading("Daniel Humphries");
 
             ui.horizontal(|ui| {
-                ui.label("Write something: ");
+                ui.label("Projects: ");
                 ui.text_edit_singleline(label);
             });
 
