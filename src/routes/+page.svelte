@@ -77,7 +77,7 @@
 						<br />
 						<p>lightweight code</p>
 						<p>websites // portfolios</p>
-						<p>webgl // 3d</p>
+						<p>webgl // low-latency // 3d</p>
 						<br />
 						<div>
 							<a href="https://aufbau.io/dan_humphries_cv.pdf">cv</a>

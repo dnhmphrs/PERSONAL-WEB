@@ -153,7 +153,7 @@
 	domObject4.rotateY(-Math.PI / 2);
 	scene2.add(domObject4);
 
-	// 5 t
+	// 5
 
 	// var element5 = document.createElement('iframe');
 	// element5.style.width = `800px`;
